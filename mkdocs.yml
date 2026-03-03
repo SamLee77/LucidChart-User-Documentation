@@ -8,9 +8,8 @@ nav:
   - Troubleshooting: "Shuyi_Troubleshooting.md"
   - Glossary: "Shuyi_Glossary.md"
 
-repo_url: https://github.com/olgazim/LucidChart-User-Documentation
+repo_url: https://samlee77.github.io/LucidChart-User-Documentation/
 
-repo_name: olgazim/LucidChart-User-Documentation
 
 theme:
   name: material
